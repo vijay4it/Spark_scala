@@ -1,0 +1,132 @@
+child_code,Parent_code,hier_path,level,has_child
+Finance Manager,Vice President of Engineering,Finance Manager#Vice President of Engineering,3,0
+Research and Development Manager,Engineering Manager,Research and Development Manager#Engineering Manager,4,0
+Research and Development Manager,Senior Tool Designer,Research and Development Manager#Senior Tool Designer,5,0
+Document Control Manager,Engineering Manager,Document Control Manager#Engineering Manager,4,0
+Production Supervisor - WC45,Engineering Manager,Production Supervisor - WC45#Engineering Manager,4,0
+Senior Design Engineer,Engineering Manager,Senior Design Engineer#Engineering Manager,4,0
+Production Control Manager,Vice President of Engineering,Production Control Manager#Vice President of Engineering,3,0
+Production Supervisor - WC30,Engineering Manager,Production Supervisor - WC30#Engineering Manager,4,0
+Vice President of Production,Chief Executive Officer,Vice President of Production#Chief Executive Officer,2,0
+Marketing Manager,Chief Executive Officer,Marketing Manager#Chief Executive Officer,2,0
+Quality Assurance Manager,Vice President of Engineering,Quality Assurance Manager#Vice President of Engineering,3,0
+Purchasing Assistant,Senior Tool Designer,Purchasing Assistant#Senior Tool Designer,5,0
+Quality Assurance Supervisor,Engineering Manager,Quality Assurance Supervisor#Engineering Manager,4,0
+Production Technician - WC30,Senior Tool Designer,Production Technician - WC30#Senior Tool Designer,5,0
+Scheduling Assistant,Engineering Manager,Scheduling Assistant#Engineering Manager,4,0
+Buyer,Senior Tool Designer,Buyer#Senior Tool Designer,5,0
+Human Resources Administrative Assistant,Engineering Manager,Human Resources Administrative Assistant#Engineering Manager,4,0
+Marketing Specialist,Vice President of Engineering,Marketing Specialist#Vice President of Engineering,3,0
+Production Supervisor - WC10,Engineering Manager,Production Supervisor - WC10#Engineering Manager,4,0
+Production Technician - WC50,Senior Tool Designer,Production Technician - WC50#Senior Tool Designer,5,0
+Accounts Payable Specialist,Engineering Manager,Accounts Payable Specialist#Engineering Manager,4,0
+Production Supervisor - WC20,Engineering Manager,Production Supervisor - WC20#Engineering Manager,4,0
+Sales Representative,Engineering Manager,Sales Representative#Engineering Manager,4,0
+Marketing Assistant,Vice President of Engineering,Marketing Assistant#Vice President of Engineering,3,0
+Production Supervisor - WC50,Engineering Manager,Production Supervisor - WC50#Engineering Manager,4,0
+Tool Designer,Senior Tool Designer,Tool Designer#Senior Tool Designer,5,0
+Accounts Receivable Specialist,Engineering Manager,Accounts Receivable Specialist#Engineering Manager,4,0
+Network Manager,Vice President of Engineering,Network Manager#Vice President of Engineering,3,0
+Application Specialist,Vice President of Engineering,Application Specialist#Vice President of Engineering,3,0
+Recruiter,Engineering Manager,Recruiter#Engineering Manager,4,0
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+Vice President of Engineering,Chief Executive Officer,Vice President of Engineering#Chief Executive Officer,2,1
+European Sales Manager,Vice President of Engineering,European Sales Manager#Vice President of Engineering,3,0
+Janitor,Senior Tool Designer,Janitor#Senior Tool Designer,5,0
+Design Engineer,Engineering Manager,Design Engineer#Engineering Manager,4,0
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Senior Tool Designer,Engineering Manager,Senior Tool Designer#Engineering Manager,4,1
+Database Administrator,Vice President of Engineering,Database Administrator#Vice President of Engineering,3,0
+Stocker,Senior Tool Designer,Stocker#Senior Tool Designer,5,0
+Vice President of Sales,Chief Executive Officer,Vice President of Sales#Chief Executive Officer,2,0
+Master Scheduler,Vice President of Engineering,Master Scheduler#Vice President of Engineering,3,0
+Chief Financial Officer,Chief Executive Officer,Chief Financial Officer#Chief Executive Officer,2,0
+Purchasing Manager,Engineering Manager,Purchasing Manager#Engineering Manager,4,0
+Pacific Sales Manager,Vice President of Engineering,Pacific Sales Manager#Vice President of Engineering,3,0
+Information Services Manager,Chief Executive Officer,Information Services Manager#Chief Executive Officer,2,0
+Quality Assurance Technician,Senior Tool Designer,Quality Assurance Technician#Senior Tool Designer,5,0
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Engineering Manager,Vice President of Engineering,Engineering Manager#Vice President of Engineering,3,1
+Control Specialist,Senior Tool Designer,Control Specialist#Senior Tool Designer,5,0
+Network Administrator,Engineering Manager,Network Administrator#Engineering Manager,4,0
+Accountant,Engineering Manager,Accountant#Engineering Manager,4,0
+Production Supervisor - WC60,Engineering Manager,Production Supervisor - WC60#Engineering Manager,4,0
+Shipping and Receiving Clerk,Senior Tool Designer,Shipping and Receiving Clerk#Senior Tool Designer,5,0
+Benefits Specialist,Engineering Manager,Benefits Specialist#Engineering Manager,4,0
+Maintenance Supervisor,Engineering Manager,Maintenance Supervisor#Engineering Manager,4,0
+Research and Development Engineer,Senior Tool Designer,Research and Development Engineer#Senior Tool Designer,5,0
+Production Technician - WC60,Senior Tool Designer,Production Technician - WC60#Senior Tool Designer,5,0
+Production Technician - WC45,Senior Tool Designer,Production Technician - WC45#Senior Tool Designer,5,0
+North American Sales Manager,Vice President of Engineering,North American Sales Manager#Vice President of Engineering,3,0
+Shipping and Receiving Supervisor,Engineering Manager,Shipping and Receiving Supervisor#Engineering Manager,4,0
+Chief Executive Officer,root,Chief Executive Officer,1,1
+Chief Executive Officer,root,Chief Executive Officer,1,1
+Chief Executive Officer,root,Chief Executive Officer,1,1
+Chief Executive Officer,root,Chief Executive Officer,1,1
+Chief Executive Officer,root,Chief Executive Officer,1,1
+Chief Executive Officer,root,Chief Executive Officer,1,1
+Facilities Administrative Assistant,Engineering Manager,Facilities Administrative Assistant#Engineering Manager,4,0
+Production Technician - WC10,Senior Tool Designer,Production Technician - WC10#Senior Tool Designer,5,0
+Human Resources Manager,Vice President of Engineering,Human Resources Manager#Vice President of Engineering,3,0
+Production Technician - WC20,Senior Tool Designer,Production Technician - WC20#Senior Tool Designer,5,0
+Assistant to the Chief Financial Officer,Vice President of Engineering,Assistant to the Chief Financial Officer#Vice President of Engineering,3,0
+Production Supervisor - WC40,Engineering Manager,Production Supervisor - WC40#Engineering Manager,4,0
+Facilities Manager,Vice President of Engineering,Facilities Manager#Vice President of Engineering,3,0
+Accounts Manager,Vice President of Engineering,Accounts Manager#Vice President of Engineering,3,0
+Document Control Assistant,Senior Tool Designer,Document Control Assistant#Senior Tool Designer,5,0
+Production Technician - WC40,Senior Tool Designer,Production Technician - WC40#Senior Tool Designer,5,0

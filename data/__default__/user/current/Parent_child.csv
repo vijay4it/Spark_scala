@@ -1,0 +1,291 @@
+child_code,Parent_code
+Chief Executive Officer,root 
+Vice President of Engineering,Chief Executive Officer
+Marketing Manager,Chief Executive Officer
+Vice President of Production,Chief Executive Officer
+Chief Financial Officer,Chief Executive Officer
+Information Services Manager,Chief Executive Officer
+Vice President of Sales,Chief Executive Officer
+North American Sales Manager,Vice President of Engineering
+Assistant to the Chief Financial Officer,Vice President of Engineering
+Pacific Sales Manager,Vice President of Engineering
+European Sales Manager,Vice President of Engineering
+Network Manager,Vice President of Engineering
+Application Specialist,Vice President of Engineering
+Application Specialist,Vice President of Engineering
+Application Specialist,Vice President of Engineering
+Database Administrator,Vice President of Engineering
+Database Administrator,Vice President of Engineering
+Application Specialist,Vice President of Engineering
+Finance Manager,Vice President of Engineering
+Human Resources Manager,Vice President of Engineering
+Facilities Manager,Vice President of Engineering
+Accounts Manager,Vice President of Engineering
+Quality Assurance Manager,Vice President of Engineering
+Master Scheduler,Vice President of Engineering
+Production Control Manager,Vice President of Engineering
+Marketing Assistant,Vice President of Engineering
+Marketing Specialist,Vice President of Engineering
+Marketing Assistant,Vice President of Engineering
+Marketing Assistant,Vice President of Engineering
+Marketing Specialist,Vice President of Engineering
+Marketing Specialist,Vice President of Engineering
+Marketing Specialist,Vice President of Engineering
+Marketing Specialist,Vice President of Engineering
+Engineering Manager,Vice President of Engineering
+Senior Tool Designer,Engineering Manager
+Design Engineer,Engineering Manager
+Design Engineer,Engineering Manager
+Research and Development Manager,Engineering Manager
+Production Supervisor - WC60,Engineering Manager
+Senior Tool Designer,Engineering Manager
+Senior Design Engineer,Engineering Manager
+Design Engineer,Engineering Manager
+Production Supervisor - WC60,Engineering Manager
+Production Supervisor - WC10,Engineering Manager
+Production Supervisor - WC60,Engineering Manager
+Production Supervisor - WC50,Engineering Manager
+Production Supervisor - WC30,Engineering Manager
+Production Supervisor - WC40,Engineering Manager
+Production Supervisor - WC50,Engineering Manager
+Production Supervisor - WC10,Engineering Manager
+Production Supervisor - WC10,Engineering Manager
+Production Supervisor - WC50,Engineering Manager
+Shipping and Receiving Supervisor,Engineering Manager
+Production Supervisor - WC40,Engineering Manager
+Production Supervisor - WC20,Engineering Manager
+Production Supervisor - WC20,Engineering Manager
+Production Supervisor - WC30,Engineering Manager
+Production Supervisor - WC45,Engineering Manager
+Production Supervisor - WC30,Engineering Manager
+Scheduling Assistant,Engineering Manager
+Scheduling Assistant,Engineering Manager
+Scheduling Assistant,Engineering Manager
+Scheduling Assistant,Engineering Manager
+Document Control Manager,Engineering Manager
+Quality Assurance Supervisor,Engineering Manager
+Production Supervisor - WC45,Engineering Manager
+Production Supervisor - WC20,Engineering Manager
+Production Supervisor - WC45,Engineering Manager
+Production Supervisor - WC40,Engineering Manager
+Accounts Receivable Specialist,Engineering Manager
+Accounts Receivable Specialist,Engineering Manager
+Accounts Receivable Specialist,Engineering Manager
+Accountant,Engineering Manager
+Accounts Payable Specialist,Engineering Manager
+Accounts Payable Specialist,Engineering Manager
+Accountant,Engineering Manager
+Maintenance Supervisor,Engineering Manager
+Human Resources Administrative Assistant,Engineering Manager
+Human Resources Administrative Assistant,Engineering Manager
+Recruiter,Engineering Manager
+Benefits Specialist,Engineering Manager
+Recruiter,Engineering Manager
+Purchasing Manager,Engineering Manager
+Network Administrator,Engineering Manager
+Network Administrator,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Facilities Administrative Assistant,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Sales Representative,Engineering Manager
+Buyer,Senior Tool Designer
+Buyer,Senior Tool Designer
+Buyer,Senior Tool Designer
+Buyer,Senior Tool Designer
+Buyer,Senior Tool Designer
+Buyer,Senior Tool Designer
+Buyer,Senior Tool Designer
+Buyer,Senior Tool Designer
+Buyer,Senior Tool Designer
+Purchasing Assistant,Senior Tool Designer
+Purchasing Assistant,Senior Tool Designer
+Janitor,Senior Tool Designer
+Janitor,Senior Tool Designer
+Janitor,Senior Tool Designer
+Janitor,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Quality Assurance Technician,Senior Tool Designer
+Quality Assurance Technician,Senior Tool Designer
+Quality Assurance Technician,Senior Tool Designer
+Quality Assurance Technician,Senior Tool Designer
+Control Specialist,Senior Tool Designer
+Document Control Assistant,Senior Tool Designer
+Document Control Assistant,Senior Tool Designer
+Control Specialist,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC45,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC20,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Stocker,Senior Tool Designer
+Shipping and Receiving Clerk,Senior Tool Designer
+Stocker,Senior Tool Designer
+Shipping and Receiving Clerk,Senior Tool Designer
+Stocker,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC40,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC30,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC50,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC10,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Tool Designer,Senior Tool Designer
+Tool Designer,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Production Technician - WC60,Senior Tool Designer
+Research and Development Engineer,Senior Tool Designer
+Research and Development Engineer,Senior Tool Designer
+Research and Development Manager,Senior Tool Designer
