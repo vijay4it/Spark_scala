@@ -15,7 +15,7 @@ object Parent_child {
 
     csvPO.createOrReplaceTempView("main_data")
 
-    //First One to hold value of number of rows in new data set
+    //First One to hold value of number of rows in new data sets
 
     var df_cnt: Int = 1
 
